@@ -1,0 +1,13 @@
+,AREA,YEAR_op,STOCK_TECHNO,Cmax_Pvar
+0,Marseille,2020,tankH2_G,0.0
+1,Marseille,2020,saltCavernH2_G,0.0
+2,Marseille,2020,Battery,0.0
+3,Marseille,2030,tankH2_G,-4.316236902396006e-13
+4,Marseille,2030,saltCavernH2_G,0.0
+5,Marseille,2030,Battery,9.188670904175945e-14
+6,Marseille,2040,tankH2_G,2.5280749986911905e-13
+7,Marseille,2040,saltCavernH2_G,0.0
+8,Marseille,2040,Battery,2.567823154765248e-15
+9,Marseille,2050,tankH2_G,-1.3725186352037122e-14
+10,Marseille,2050,saltCavernH2_G,0.0
+11,Marseille,2050,Battery,-1.4641438831741044e-15

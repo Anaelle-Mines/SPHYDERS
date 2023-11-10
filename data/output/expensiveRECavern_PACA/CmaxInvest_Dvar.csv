@@ -1,0 +1,13 @@
+,AREA,YEAR_invest,STOCK_TECHNO,CmaxInvest_Dvar
+0,Marseille,2010,Battery,0.0
+1,Marseille,2010,saltCavernH2_G,0.0
+2,Marseille,2010,tankH2_G,-0.0
+3,Marseille,2020,Battery,0.0
+4,Marseille,2020,saltCavernH2_G,-1.802551481675816e-13
+5,Marseille,2020,tankH2_G,-3.3655438252898614e-14
+6,Marseille,2030,Battery,0.0
+7,Marseille,2030,saltCavernH2_G,130000.0
+8,Marseille,2030,tankH2_G,2494.1519453909227
+9,Marseille,2040,Battery,0.0
+10,Marseille,2040,saltCavernH2_G,130000.0
+11,Marseille,2040,tankH2_G,10129.016377262442

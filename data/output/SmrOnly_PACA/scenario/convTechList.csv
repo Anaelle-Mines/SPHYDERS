@@ -1,0 +1,10 @@
+,convTechList
+0,WindOnShore
+1,WindOffShore_flot
+2,Solar
+3,SMR
+4,SMR + CCS1
+5,SMR + CCS2
+6,CCS1
+7,CCS2
+8,curtailment
