@@ -1,0 +1,177 @@
+,AREA,YEAR_invest,YEAR_invest,TECHNOLOGIES,capacityDem_Dvar
+0,Marseille,2010,2010,SMR,0.0
+1,Marseille,2010,2010,electrolysis_PEMEL,0.0
+2,Marseille,2010,2010,WindOnShore,0.0
+3,Marseille,2010,2010,SMR + CCS1,0.0
+4,Marseille,2010,2010,electrolysis_AEL,0.0
+5,Marseille,2010,2010,SMR + CCS2,0.0
+6,Marseille,2010,2010,Solar,0.0
+7,Marseille,2010,2010,curtailment,100000.0
+8,Marseille,2010,2010,CCS1,0.0
+9,Marseille,2010,2010,CCS2,0.0
+10,Marseille,2010,2010,WindOffShore_flot,0.0
+11,Marseille,2010,2020,SMR,0.0
+12,Marseille,2010,2020,electrolysis_PEMEL,0.0
+13,Marseille,2010,2020,WindOnShore,0.0
+14,Marseille,2010,2020,SMR + CCS1,0.0
+15,Marseille,2010,2020,electrolysis_AEL,0.0
+16,Marseille,2010,2020,SMR + CCS2,0.0
+17,Marseille,2010,2020,Solar,0.0
+18,Marseille,2010,2020,curtailment,0.0
+19,Marseille,2010,2020,CCS1,0.0
+20,Marseille,2010,2020,CCS2,0.0
+21,Marseille,2010,2020,WindOffShore_flot,0.0
+22,Marseille,2010,2030,SMR,80.78859436616466
+23,Marseille,2010,2030,electrolysis_PEMEL,0.0
+24,Marseille,2010,2030,WindOnShore,0.0
+25,Marseille,2010,2030,SMR + CCS1,0.0
+26,Marseille,2010,2030,electrolysis_AEL,0.0
+27,Marseille,2010,2030,SMR + CCS2,0.0
+28,Marseille,2010,2030,Solar,0.0
+29,Marseille,2010,2030,curtailment,0.0
+30,Marseille,2010,2030,CCS1,0.0
+31,Marseille,2010,2030,CCS2,0.0
+32,Marseille,2010,2030,WindOffShore_flot,0.0
+33,Marseille,2010,2040,SMR,330.21140563383534
+34,Marseille,2010,2040,electrolysis_PEMEL,0.0
+35,Marseille,2010,2040,WindOnShore,0.0
+36,Marseille,2010,2040,SMR + CCS1,0.0
+37,Marseille,2010,2040,electrolysis_AEL,0.0
+38,Marseille,2010,2040,SMR + CCS2,0.0
+39,Marseille,2010,2040,Solar,0.0
+40,Marseille,2010,2040,curtailment,0.0
+41,Marseille,2010,2040,CCS1,0.0
+42,Marseille,2010,2040,CCS2,0.0
+43,Marseille,2010,2040,WindOffShore_flot,0.0
+44,Marseille,2020,2010,SMR,0.0
+45,Marseille,2020,2010,electrolysis_PEMEL,0.0
+46,Marseille,2020,2010,WindOnShore,0.0
+47,Marseille,2020,2010,SMR + CCS1,0.0
+48,Marseille,2020,2010,electrolysis_AEL,0.0
+49,Marseille,2020,2010,SMR + CCS2,0.0
+50,Marseille,2020,2010,Solar,0.0
+51,Marseille,2020,2010,curtailment,0.0
+52,Marseille,2020,2010,CCS1,0.0
+53,Marseille,2020,2010,CCS2,0.0
+54,Marseille,2020,2010,WindOffShore_flot,0.0
+55,Marseille,2020,2020,SMR,0.0
+56,Marseille,2020,2020,electrolysis_PEMEL,0.0
+57,Marseille,2020,2020,WindOnShore,0.0
+58,Marseille,2020,2020,SMR + CCS1,0.0
+59,Marseille,2020,2020,electrolysis_AEL,0.0
+60,Marseille,2020,2020,SMR + CCS2,0.0
+61,Marseille,2020,2020,Solar,0.0
+62,Marseille,2020,2020,curtailment,100000.0
+63,Marseille,2020,2020,CCS1,0.0
+64,Marseille,2020,2020,CCS2,0.0
+65,Marseille,2020,2020,WindOffShore_flot,0.0
+66,Marseille,2020,2030,SMR,0.0
+67,Marseille,2020,2030,electrolysis_PEMEL,0.0
+68,Marseille,2020,2030,WindOnShore,0.0
+69,Marseille,2020,2030,SMR + CCS1,0.0
+70,Marseille,2020,2030,electrolysis_AEL,0.0
+71,Marseille,2020,2030,SMR + CCS2,0.0
+72,Marseille,2020,2030,Solar,0.0
+73,Marseille,2020,2030,curtailment,0.0
+74,Marseille,2020,2030,CCS1,0.0
+75,Marseille,2020,2030,CCS2,0.0
+76,Marseille,2020,2030,WindOffShore_flot,0.0
+77,Marseille,2020,2040,SMR,0.0
+78,Marseille,2020,2040,electrolysis_PEMEL,0.0
+79,Marseille,2020,2040,WindOnShore,0.0
+80,Marseille,2020,2040,SMR + CCS1,114.36617720761512
+81,Marseille,2020,2040,electrolysis_AEL,0.0
+82,Marseille,2020,2040,SMR + CCS2,0.0
+83,Marseille,2020,2040,Solar,0.0
+84,Marseille,2020,2040,curtailment,0.0
+85,Marseille,2020,2040,CCS1,0.0
+86,Marseille,2020,2040,CCS2,0.0
+87,Marseille,2020,2040,WindOffShore_flot,0.0
+88,Marseille,2030,2010,SMR,0.0
+89,Marseille,2030,2010,electrolysis_PEMEL,0.0
+90,Marseille,2030,2010,WindOnShore,0.0
+91,Marseille,2030,2010,SMR + CCS1,0.0
+92,Marseille,2030,2010,electrolysis_AEL,0.0
+93,Marseille,2030,2010,SMR + CCS2,0.0
+94,Marseille,2030,2010,Solar,0.0
+95,Marseille,2030,2010,curtailment,0.0
+96,Marseille,2030,2010,CCS1,0.0
+97,Marseille,2030,2010,CCS2,0.0
+98,Marseille,2030,2010,WindOffShore_flot,0.0
+99,Marseille,2030,2020,SMR,0.0
+100,Marseille,2030,2020,electrolysis_PEMEL,0.0
+101,Marseille,2030,2020,WindOnShore,0.0
+102,Marseille,2030,2020,SMR + CCS1,0.0
+103,Marseille,2030,2020,electrolysis_AEL,0.0
+104,Marseille,2030,2020,SMR + CCS2,0.0
+105,Marseille,2030,2020,Solar,0.0
+106,Marseille,2030,2020,curtailment,0.0
+107,Marseille,2030,2020,CCS1,0.0
+108,Marseille,2030,2020,CCS2,0.0
+109,Marseille,2030,2020,WindOffShore_flot,0.0
+110,Marseille,2030,2030,SMR,0.0
+111,Marseille,2030,2030,electrolysis_PEMEL,0.0
+112,Marseille,2030,2030,WindOnShore,0.0
+113,Marseille,2030,2030,SMR + CCS1,0.0
+114,Marseille,2030,2030,electrolysis_AEL,0.0
+115,Marseille,2030,2030,SMR + CCS2,0.0
+116,Marseille,2030,2030,Solar,0.0
+117,Marseille,2030,2030,curtailment,0.0
+118,Marseille,2030,2030,CCS1,0.0
+119,Marseille,2030,2030,CCS2,0.0
+120,Marseille,2030,2030,WindOffShore_flot,0.0
+121,Marseille,2030,2040,SMR,0.0
+122,Marseille,2030,2040,electrolysis_PEMEL,0.0
+123,Marseille,2030,2040,WindOnShore,0.0
+124,Marseille,2030,2040,SMR + CCS1,0.0
+125,Marseille,2030,2040,electrolysis_AEL,-0.0
+126,Marseille,2030,2040,SMR + CCS2,0.0
+127,Marseille,2030,2040,Solar,0.0
+128,Marseille,2030,2040,curtailment,0.0
+129,Marseille,2030,2040,CCS1,0.0
+130,Marseille,2030,2040,CCS2,0.0
+131,Marseille,2030,2040,WindOffShore_flot,0.0
+132,Marseille,2040,2010,SMR,0.0
+133,Marseille,2040,2010,electrolysis_PEMEL,0.0
+134,Marseille,2040,2010,WindOnShore,0.0
+135,Marseille,2040,2010,SMR + CCS1,0.0
+136,Marseille,2040,2010,electrolysis_AEL,0.0
+137,Marseille,2040,2010,SMR + CCS2,0.0
+138,Marseille,2040,2010,Solar,0.0
+139,Marseille,2040,2010,curtailment,0.0
+140,Marseille,2040,2010,CCS1,0.0
+141,Marseille,2040,2010,CCS2,0.0
+142,Marseille,2040,2010,WindOffShore_flot,0.0
+143,Marseille,2040,2020,SMR,0.0
+144,Marseille,2040,2020,electrolysis_PEMEL,0.0
+145,Marseille,2040,2020,WindOnShore,0.0
+146,Marseille,2040,2020,SMR + CCS1,0.0
+147,Marseille,2040,2020,electrolysis_AEL,0.0
+148,Marseille,2040,2020,SMR + CCS2,0.0
+149,Marseille,2040,2020,Solar,0.0
+150,Marseille,2040,2020,curtailment,0.0
+151,Marseille,2040,2020,CCS1,0.0
+152,Marseille,2040,2020,CCS2,0.0
+153,Marseille,2040,2020,WindOffShore_flot,0.0
+154,Marseille,2040,2030,SMR,0.0
+155,Marseille,2040,2030,electrolysis_PEMEL,0.0
+156,Marseille,2040,2030,WindOnShore,0.0
+157,Marseille,2040,2030,SMR + CCS1,0.0
+158,Marseille,2040,2030,electrolysis_AEL,0.0
+159,Marseille,2040,2030,SMR + CCS2,0.0
+160,Marseille,2040,2030,Solar,0.0
+161,Marseille,2040,2030,curtailment,0.0
+162,Marseille,2040,2030,CCS1,0.0
+163,Marseille,2040,2030,CCS2,0.0
+164,Marseille,2040,2030,WindOffShore_flot,0.0
+165,Marseille,2040,2040,SMR,0.0
+166,Marseille,2040,2040,electrolysis_PEMEL,0.0
+167,Marseille,2040,2040,WindOnShore,0.0
+168,Marseille,2040,2040,SMR + CCS1,0.0
+169,Marseille,2040,2040,electrolysis_AEL,0.0
+170,Marseille,2040,2040,SMR + CCS2,0.0
+171,Marseille,2040,2040,Solar,0.0
+172,Marseille,2040,2040,curtailment,100000.0
+173,Marseille,2040,2040,CCS1,0.0
+174,Marseille,2040,2040,CCS2,0.0
+175,Marseille,2040,2040,WindOffShore_flot,0.0
