@@ -1,0 +1,13 @@
+,AREA,YEAR_op,STOCK_TECHNO,storageCosts_Pvar
+0,Marseille,2020,tankH2_G,-0.0
+1,Marseille,2020,saltCavernH2_G,-0.0
+2,Marseille,2020,Battery,-0.0
+3,Marseille,2030,tankH2_G,-0.0
+4,Marseille,2030,saltCavernH2_G,90139.33865993797
+5,Marseille,2030,Battery,-0.0
+6,Marseille,2040,tankH2_G,1617395.101134992
+7,Marseille,2040,saltCavernH2_G,2074770.9904655782
+8,Marseille,2040,Battery,-0.0
+9,Marseille,2050,tankH2_G,4011647.8132969867
+10,Marseille,2050,saltCavernH2_G,7208848.427514583
+11,Marseille,2050,Battery,-0.0
