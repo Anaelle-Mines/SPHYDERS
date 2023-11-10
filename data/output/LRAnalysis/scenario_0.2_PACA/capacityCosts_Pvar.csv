@@ -1,0 +1,45 @@
+,AREA,YEAR_op,TECHNOLOGIES,capacityCosts_Pvar
+0,Marseille,2020,electrolysis_AEL,-0.0
+1,Marseille,2020,SMR + CCS1,-0.0
+2,Marseille,2020,WindOffShore_flot,-0.0
+3,Marseille,2020,CCS1,-0.0
+4,Marseille,2020,electrolysis_PEMEL,-0.0
+5,Marseille,2020,curtailment,0.0
+6,Marseille,2020,SMR + CCS2,-0.0
+7,Marseille,2020,CCS2,-0.0
+8,Marseille,2020,SMR,9128548.42460624
+9,Marseille,2020,Solar,-0.0
+10,Marseille,2020,WindOnShore,-0.0
+11,Marseille,2030,electrolysis_AEL,-0.0
+12,Marseille,2030,SMR + CCS1,12661578.018556591
+13,Marseille,2030,WindOffShore_flot,-0.0
+14,Marseille,2030,CCS1,6465744.140955842
+15,Marseille,2030,electrolysis_PEMEL,-0.0
+16,Marseille,2030,curtailment,0.0
+17,Marseille,2030,SMR + CCS2,-0.0
+18,Marseille,2030,CCS2,-0.0
+19,Marseille,2030,SMR,283719.85665808717
+20,Marseille,2030,Solar,-0.0
+21,Marseille,2030,WindOnShore,7.747682985594466e-10
+22,Marseille,2040,electrolysis_AEL,13959880.714543872
+23,Marseille,2040,SMR + CCS1,8553708.430129183
+24,Marseille,2040,WindOffShore_flot,-0.0
+25,Marseille,2040,CCS1,4368025.06642511
+26,Marseille,2040,electrolysis_PEMEL,-0.0
+27,Marseille,2040,curtailment,0.0
+28,Marseille,2040,SMR + CCS2,-0.0
+29,Marseille,2040,CCS2,-0.0
+30,Marseille,2040,SMR,3078791.9570248798
+31,Marseille,2040,Solar,276244.11751699384
+32,Marseille,2040,WindOnShore,3170203.3657944505
+33,Marseille,2050,electrolysis_AEL,13665457.972788615
+34,Marseille,2050,SMR + CCS1,5778578.925978449
+35,Marseille,2050,WindOffShore_flot,-0.0
+36,Marseille,2050,CCS1,2950881.2234097333
+37,Marseille,2050,electrolysis_PEMEL,-0.0
+38,Marseille,2050,curtailment,0.0
+39,Marseille,2050,SMR + CCS2,-0.0
+40,Marseille,2050,CCS2,-0.0
+41,Marseille,2050,SMR,8957565.059367452
+42,Marseille,2050,Solar,1029109.3385235809
+43,Marseille,2050,WindOnShore,2978429.496291347

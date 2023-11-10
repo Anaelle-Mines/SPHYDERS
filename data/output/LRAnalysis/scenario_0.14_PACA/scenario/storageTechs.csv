@@ -1,0 +1,13 @@
+,Battery,tankH2_G,saltCavernH2_G,Battery,tankH2_G,saltCavernH2_G,Battery,tankH2_G,saltCavernH2_G,Battery,tankH2_G,saltCavernH2_G
+AREA,Marseille,Marseille,Marseille,Marseille,Marseille,Marseille,Marseille,Marseille,Marseille,Marseille,Marseille,Marseille
+YEAR,2010,2010,2010,2020,2020,2020,2030,2030,2030,2040,2040,2040
+c_max,250.0,5000.0,0.0,750.0,15000.0,0.0,4350.0,25000.0,0.0,7700.0,30000.0,0.0
+chargeFactors,{'electricity': 0.92},"{'electricity': 0.0168, 'hydrogen': 1}","{'electricity': 0.0168, 'hydrogen': 1}",{'electricity': 0.92},"{'electricity': 0.0168, 'hydrogen': 1}","{'electricity': 0.0168, 'hydrogen': 1}",{'electricity': 0.92},"{'electricity': 0.0168, 'hydrogen': 1}","{'electricity': 0.0168, 'hydrogen': 1}",{'electricity': 0.92},"{'electricity': 0.0168, 'hydrogen': 1}","{'electricity': 0.0168, 'hydrogen': 1}"
+dischargeFactors,{'electricity': 1.09},{'hydrogen': 1},{'hydrogen': 1},{'electricity': 1.09},{'hydrogen': 1},{'hydrogen': 1},{'electricity': 1.09},{'hydrogen': 1},{'hydrogen': 1},{'electricity': 1.09},{'hydrogen': 1},{'hydrogen': 1}
+dissipation,0.0085,0,0,0.0085,0,0,0.0085,0,0,0.0085,0,0
+p_max,25.0,500.0,0.0,75.0,1500.0,0.0,435.0,2500.0,0.0,770.0,3000.0,0.0
+resource,electricity,hydrogen,hydrogen,electricity,hydrogen,hydrogen,electricity,hydrogen,hydrogen,electricity,hydrogen,hydrogen
+storageEnergyCost,314333.3333333333,5400.0,280,273000.0,5400.0,280,203000.0,5400.0,280,158000.0,5400.0,280
+storageOperationCost,11000.0,1000.0,15000.0,11000.0,2000.0,15000.0,11000.0,2000.0,15000.0,11000.0,2000.0,15000.0
+storagePowerCost,222666.6666666667,12600.0,373000.0,198500.0,12600.0,373000.0,166000.0,12600.0,373000.0,165500.0,12600.0,373000.0
+storagelifeSpan,15.0,20.0,40.0,15.0,20.0,40.0,15.0,20.0,40.0,15.0,20.0,40.0
