@@ -1,0 +1,10 @@
+,convTechList
+0,WindOnShore
+1,WindOffShore_flot
+2,Solar
+3,WindOnShorePPA
+4,WindOffShorePPA
+5,SolarPPA
+6,SMR
+7,electrolysis_AEL
+8,curtailment
